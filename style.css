@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background: #000;
+}
+
+p {
+  font-size: 15px;
+  text-align: justify;
+  font-weight: bold;
+  font-family: sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: transparent;
+  background: url(https://media0.giphy.com/media/0HR6cjY8Q1XQlmjVVa/giphy360p.mp4) center/cover;
+  -webkit-background-clip: text;
+  background-clip: text;
+  word-spacing: 0px;
+  letter-spacing: -1px;
+}
